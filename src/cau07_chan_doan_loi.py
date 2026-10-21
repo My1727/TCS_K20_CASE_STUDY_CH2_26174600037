@@ -18,4 +18,4 @@ print(f"Điện năng: {dien_nang_kwh:.3f} kWh")   # Sua loi 2: Đung ten bien &
 # Cach khac phuc: Doi 'dien_nang' thanh 'dien_nang_kwh'
 # CAC LOI DA PHAT HIEN
 # Loi TypeError: Tai dong 2 cong_suat_w chua chuyen sang float(), gay loi phep tinh o dong 5.
-# Loi NameError va SyntaxError tai dong 7 do dung sai ten bien 'dien_nang' va thieu ngoac ')' cuoi print()
+# Loi NameError va SyntaxError tai dong 7 do dung sai ten bien 'dien_nang' va thieu ngoac ')' cuoi print()# Cap nhat phien ban v2
